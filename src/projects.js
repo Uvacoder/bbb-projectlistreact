@@ -1039,6 +1039,24 @@ const projectsList = [
         express: false,
         mongoDB: false
     },
+
+    {
+        name: 'Audiophile E-commerce',
+        description: 'An E-commerce site for and Audio product\'s company. ',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/audiophile.png",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/audiophileMobile.png",
+        live: "https://audiophile-ecommerce-tau.vercel.app/",
+        sample: "https://github.com/SJellen/audiophile-ecommerce",
+        htmlLogo: false,
+        cssLogo: false,
+        sass: true,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false,
+        express: false,
+        mongoDB: false
+    },
     
 
 
