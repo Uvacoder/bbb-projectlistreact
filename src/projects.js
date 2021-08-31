@@ -1042,7 +1042,7 @@ const projectsList = [
 
     {
         name: 'Audiophile E-commerce',
-        description: 'An E-commerce site for and Audio product\'s company. ',
+        description: 'An E-commerce site for an audio product\'s company. ',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/audiophile.png",
         img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/audiophileMobile.png",
         live: "https://audiophile-ecommerce-tau.vercel.app/",
