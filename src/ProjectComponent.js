@@ -1,5 +1,6 @@
 import React from 'react'
 import projectsList from './projects'
+import './App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {  faReact, faJs, faHtml5, faCss3Alt, faSass, faBootstrap, faNodeJs } from '@fortawesome/free-brands-svg-icons'
 
@@ -30,7 +31,7 @@ function ProjectComponent() {
         )
        
     return (
-        <div>
+        <div className="projectContainer">
               {projects}  
         </div>
         
