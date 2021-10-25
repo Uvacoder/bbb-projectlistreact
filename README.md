@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Projects List 👋</h1>
-
+-
 ![screenshot](https://github.com/SJellen/projectlistreact/blob/master/public/screenShot.png)
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
